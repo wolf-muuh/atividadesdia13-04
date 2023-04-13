@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\atividade nº1\bin\Debug\net7.0\atividade nº1.exe
+C:\Users\54750759805\Desktop\atividade nº1\bin\Debug\net7.0\atividade nº1.deps.json
+C:\Users\54750759805\Desktop\atividade nº1\bin\Debug\net7.0\atividade nº1.runtimeconfig.json
+C:\Users\54750759805\Desktop\atividade nº1\bin\Debug\net7.0\atividade nº1.dll
+C:\Users\54750759805\Desktop\atividade nº1\bin\Debug\net7.0\atividade nº1.pdb
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.dll
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\refint\atividade nº1.dll
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.pdb
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\atividade nº1.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\atividade nº1\obj\Debug\net7.0\ref\atividade nº1.dll
