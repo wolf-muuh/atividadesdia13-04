@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\bin\Debug\net7.0\atividade nº6.exe
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\bin\Debug\net7.0\atividade nº6.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\bin\Debug\net7.0\atividade nº6.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\bin\Debug\net7.0\atividade nº6.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\bin\Debug\net7.0\atividade nº6.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\refint\atividade nº6.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\atividade nº6.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade nº6\obj\Debug\net7.0\ref\atividade nº6.dll
