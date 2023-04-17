@@ -17,7 +17,7 @@ for (int i = 0; i < nomes.Length; i++)
     if (nomes[i] == nomeBusca)
     {
         encontrou = true;
-        break;
+        
     }
 }
 
